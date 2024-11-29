@@ -3,7 +3,7 @@ import { createServer } from 'http';
 import { Server } from 'socket.io';
 import axios from 'axios';
 
-const KEY = 'g0mxOUZrBxzM1G0ZIss3';
+const KEY = '1234';
 
 const app = express();
 app.use(express.static('./src'));
